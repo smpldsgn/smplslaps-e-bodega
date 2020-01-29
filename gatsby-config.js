@@ -4,7 +4,7 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Bodega Cloud',
+    title: 'smplslaps Bodega',
   },
   plugins: [
     `gatsby-plugin-layout`,
@@ -45,8 +45,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Bodega Cloud',
-        short_name: 'Bodega',
+        name: 'smplslaps Bodega',
+        short_name: 'smplslaps Bodega',
         start_url: '/',
         background_color: '#50B83C',
         theme_color: '#50B83C',
